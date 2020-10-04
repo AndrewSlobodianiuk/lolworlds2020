@@ -7,15 +7,29 @@
           "participant_name": "123",
           "participant_logo": "123",
           "participant_score": "123",
-          "participant_winning": true
+          "participant_winning": true,
+          "name": "123",
+          "logo": "123",
+          "score": "123",
+          "winning": true
         },
         {
           "participant_name": "123",
           "participant_logo": "123",
           "participant_score": "231",
-          "participant_winning": true
+          "participant_winning": true,
+          "name": "123",
+          "logo": "123",
+          "score": "123",
+          "winning": true
         }
-      ]
+      ],
+      "number_of_games": "1",
+      "group": "A",
+      "status": "INPLAY",
+      "must_see": true,
+      "gold": true,
+      "slug": "123"
     },
     {
       "start_time": "543543545",
@@ -24,15 +38,25 @@
           "participant_name": "345",
           "participant_logo": "345",
           "participant_score": "345",
-          "participant_winning": true
+          "participant_winning": true,
+          "name": "123",
+          "logo": "123",
+          "score": "123"
         },
         {
           "participant_name": "345",
           "participant_logo": "345",
           "participant_score": "345",
-          "participant_winning": true
+          "participant_winning": true,
+          "name": "123",
+          "logo": "123",
+          "score": "123"
         }
-      ]
+      ],
+      "slug": "123",
+      "group": "B",
+      "number_of_games": "5",
+      "status": "NOT_STARTED"
     }
   ]
 }
