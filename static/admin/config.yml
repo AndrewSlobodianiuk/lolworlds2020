@@ -14,16 +14,31 @@ collections:
         file: "content/matches.json"
         fields:
           - label: Matches
-              name: matches
-              widget: list
-              fields:
-                - { label: Start time, name: start_time, widget: string }
-                - label: Participants
-                  name: participants
-                  widget: list
-                  fields:
-                    - { label: Participant name, name: participant_name, widget: string }
-                    - { label: Participant logo, name: participant_logo, widget: string }
-                    - { label: Participant score, name: participant_score, widget: string }
-                    - { label: Participant winning, name: participant_winning, widget: boolean }
-
+            name: matches
+            widget: list
+            fields:
+              - { label: Start time, name: start_time, widget: string }
+              - label: Participants
+                name: participants
+                widget: list
+                fields:
+                  - {
+                      label: Participant name,
+                      name: participant_name,
+                      widget: string,
+                    }
+                  - {
+                      label: Participant logo,
+                      name: participant_logo,
+                      widget: string,
+                    }
+                  - {
+                      label: Participant score,
+                      name: participant_score,
+                      widget: string,
+                    }
+                  - {
+                      label: Participant winning,
+                      name: participant_winning,
+                      widget: boolean,
+                    }
