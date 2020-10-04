@@ -1,26 +1,923 @@
 {
   "matches": [
     {
-      "gold": true,
+      "slug": "machi-esports-vs-g2-esports-2020-10-05",
+      "start_time": "2020-10-05T08:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
       "participants": [
         {
-          "winning": true,
-          "name": "name",
-          "logo": "logo",
-          "score": "score"
-        }
-      ],
-      "vods": [
+          "winning": false,
+          "name": "MCX",
+          "logo": "https://cdn.pandascore.co/images/team/image/416/220px_machi_e_sportslogo_square.png",
+          "score": 0
+        },
         {
-          "link": "123"
+          "winning": false,
+          "name": "G2",
+          "logo": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
+          "score": 0
         }
       ],
-      "start_time": "123123",
-      "slug": "slug",
-      "number_of_games": "1",
-      "status": "INPLAY",
-      "must_see": true,
-      "group": "A"
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "suning-2020-10-05",
+      "start_time": "2020-10-05T09:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "SN",
+          "logo": "https://cdn.pandascore.co/images/team/image/652/_.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "damwon-gaming-2020-10-05",
+      "start_time": "2020-10-05T10:00:00Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "DWG",
+          "logo": "https://cdn.pandascore.co/images/team/image/1453/_.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "jd-gaming-vs-rogue-2020-10-05",
+      "start_time": "2020-10-05T11:00:00Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "JDG",
+          "logo": "https://cdn.pandascore.co/images/team/image/318/qg-reapers.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "RGE",
+          "logo": "https://cdn.pandascore.co/images/team/image/3983/Rogue__2018_European_Team_logo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "flyquest-2020-10-05",
+      "start_time": "2020-10-05T12:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "FLY",
+          "logo": "https://cdn.pandascore.co/images/team/image/311/flyquest-academy-gx8a0xfs.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "top-esports-vs-drx-2020-10-05",
+      "start_time": "2020-10-05T13:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TES",
+          "logo": "https://cdn.pandascore.co/images/team/image/126059/top-esports.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "DRX",
+          "logo": "https://cdn.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "g2-esports-2020-10-06",
+      "start_time": "2020-10-06T08:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "G2",
+          "logo": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "suning-vs-machi-esports-2020-10-06",
+      "start_time": "2020-10-06T09:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "SN",
+          "logo": "https://cdn.pandascore.co/images/team/image/652/_.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "MCX",
+          "logo": "https://cdn.pandascore.co/images/team/image/416/220px_machi_e_sportslogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "drx-vs-flyquest-2020-10-06",
+      "start_time": "2020-10-06T10:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "DRX",
+          "logo": "https://cdn.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "FLY",
+          "logo": "https://cdn.pandascore.co/images/team/image/311/flyquest-academy-gx8a0xfs.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "top-esports-2020-10-06",
+      "start_time": "2020-10-06T11:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TES",
+          "logo": "https://cdn.pandascore.co/images/team/image/126059/top-esports.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "fnatic-vs-gen-g-2020-10-06",
+      "start_time": "2020-10-06T12:00:00Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "FNC",
+          "logo": "https://cdn.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "GEN",
+          "logo": "https://cdn.pandascore.co/images/team/image/2882/geng-hooir6i9.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "team-solomid-2020-10-06",
+      "start_time": "2020-10-06T13:00:00Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TSM",
+          "logo": "https://cdn.pandascore.co/images/team/image/387/team-solomid-bjjwknt9.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "g2-esports-2020-10-08",
+      "start_time": "2020-10-08T08:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "G2",
+          "logo": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "machi-esports-vs-suning-2020-10-08",
+      "start_time": "2020-10-08T09:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "MCX",
+          "logo": "https://cdn.pandascore.co/images/team/image/416/220px_machi_e_sportslogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "SN",
+          "logo": "https://cdn.pandascore.co/images/team/image/652/_.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "g2-esports-vs-machi-esports-2020-10-08",
+      "start_time": "2020-10-08T10:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "G2",
+          "logo": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "MCX",
+          "logo": "https://cdn.pandascore.co/images/team/image/416/220px_machi_e_sportslogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "suning-2020-10-08",
+      "start_time": "2020-10-08T11:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "SN",
+          "logo": "https://cdn.pandascore.co/images/team/image/652/_.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "machi-esports-2020-10-08",
+      "start_time": "2020-10-08T12:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "MCX",
+          "logo": "https://cdn.pandascore.co/images/team/image/416/220px_machi_e_sportslogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "suning-vs-g2-esports-2020-10-08",
+      "start_time": "2020-10-08T13:00:00Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "SN",
+          "logo": "https://cdn.pandascore.co/images/team/image/652/_.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "G2",
+          "logo": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "damwon-gaming-2020-10-09",
+      "start_time": "2020-10-09T08:00:00Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "DWG",
+          "logo": "https://cdn.pandascore.co/images/team/image/1453/_.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "rogue-vs-jd-gaming-2020-10-09",
+      "start_time": "2020-10-09T09:00:00Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "RGE",
+          "logo": "https://cdn.pandascore.co/images/team/image/3983/Rogue__2018_European_Team_logo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "JDG",
+          "logo": "https://cdn.pandascore.co/images/team/image/318/qg-reapers.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "damwon-gaming-vs-rogue-2020-10-09",
+      "start_time": "2020-10-09T10:00:00Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "DWG",
+          "logo": "https://cdn.pandascore.co/images/team/image/1453/_.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "RGE",
+          "logo": "https://cdn.pandascore.co/images/team/image/3983/Rogue__2018_European_Team_logo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "jd-gaming-2020-10-09",
+      "start_time": "2020-10-09T11:00:00Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "JDG",
+          "logo": "https://cdn.pandascore.co/images/team/image/318/qg-reapers.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "rogue-2020-10-09",
+      "start_time": "2020-10-09T12:00:00Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "RGE",
+          "logo": "https://cdn.pandascore.co/images/team/image/3983/Rogue__2018_European_Team_logo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "jd-gaming-vs-damwon-gaming-2020-10-09",
+      "start_time": "2020-10-09T13:00:00Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "JDG",
+          "logo": "https://cdn.pandascore.co/images/team/image/318/qg-reapers.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "DWG",
+          "logo": "https://cdn.pandascore.co/images/team/image/1453/_.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "fnatic-vs-team-solomid-2020-10-10",
+      "start_time": "2020-10-10T08:00:00Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "FNC",
+          "logo": "https://cdn.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TSM",
+          "logo": "https://cdn.pandascore.co/images/team/image/387/team-solomid-bjjwknt9.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "gen-g-2020-10-10",
+      "start_time": "2020-10-10T09:00:00Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "GEN",
+          "logo": "https://cdn.pandascore.co/images/team/image/2882/geng-hooir6i9.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "team-solomid-vs-gen-g-2020-10-10",
+      "start_time": "2020-10-10T10:00:00Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TSM",
+          "logo": "https://cdn.pandascore.co/images/team/image/387/team-solomid-bjjwknt9.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "GEN",
+          "logo": "https://cdn.pandascore.co/images/team/image/2882/geng-hooir6i9.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "fnatic-2020-10-10",
+      "start_time": "2020-10-10T11:00:00Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "FNC",
+          "logo": "https://cdn.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "team-solomid-2020-10-10",
+      "start_time": "2020-10-10T12:00:00Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TSM",
+          "logo": "https://cdn.pandascore.co/images/team/image/387/team-solomid-bjjwknt9.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "gen-g-vs-fnatic-2020-10-10",
+      "start_time": "2020-10-10T13:00:00Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "GEN",
+          "logo": "https://cdn.pandascore.co/images/team/image/2882/geng-hooir6i9.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "FNC",
+          "logo": "https://cdn.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "flyquest-vs-drx-2020-10-11",
+      "start_time": "2020-10-11T08:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "FLY",
+          "logo": "https://cdn.pandascore.co/images/team/image/311/flyquest-academy-gx8a0xfs.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "DRX",
+          "logo": "https://cdn.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "top-esports-2020-10-11",
+      "start_time": "2020-10-11T09:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TES",
+          "logo": "https://cdn.pandascore.co/images/team/image/126059/top-esports.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "drx-2020-10-11",
+      "start_time": "2020-10-11T10:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "DRX",
+          "logo": "https://cdn.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "top-esports-vs-flyquest-2020-10-11",
+      "start_time": "2020-10-11T11:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TES",
+          "logo": "https://cdn.pandascore.co/images/team/image/126059/top-esports.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "FLY",
+          "logo": "https://cdn.pandascore.co/images/team/image/311/flyquest-academy-gx8a0xfs.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "flyquest-2020-10-11",
+      "start_time": "2020-10-11T12:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "FLY",
+          "logo": "https://cdn.pandascore.co/images/team/image/311/flyquest-academy-gx8a0xfs.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "drx-vs-top-esports-2020-10-11",
+      "start_time": "2020-10-11T13:00:00Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "DRX",
+          "logo": "https://cdn.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TES",
+          "logo": "https://cdn.pandascore.co/images/team/image/126059/top-esports.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "2020-10-15",
+      "start_time": "2020-10-15T10:00:00Z",
+      "group": "Playoffs",
+      "number_of_games": 5,
+      "participants": [
+        { "winning": false, "name": "", "logo": "", "score": 0 },
+        { "winning": false, "name": "", "logo": "", "score": 0 }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "2020-10-16",
+      "start_time": "2020-10-16T10:00:00Z",
+      "group": "Playoffs",
+      "number_of_games": 5,
+      "participants": [
+        { "winning": false, "name": "", "logo": "", "score": 0 },
+        { "winning": false, "name": "", "logo": "", "score": 0 }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "2020-10-17",
+      "start_time": "2020-10-17T10:00:00Z",
+      "group": "Playoffs",
+      "number_of_games": 5,
+      "participants": [
+        { "winning": false, "name": "", "logo": "", "score": 0 },
+        { "winning": false, "name": "", "logo": "", "score": 0 }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "2020-10-18",
+      "start_time": "2020-10-18T10:00:00Z",
+      "group": "Playoffs",
+      "number_of_games": 5,
+      "participants": [
+        { "winning": false, "name": "", "logo": "", "score": 0 },
+        { "winning": false, "name": "", "logo": "", "score": 0 }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "2020-10-24",
+      "start_time": "2020-10-24T10:00:00Z",
+      "group": "Playoffs",
+      "number_of_games": 5,
+      "participants": [
+        { "winning": false, "name": "", "logo": "", "score": 0 },
+        { "winning": false, "name": "", "logo": "", "score": 0 }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "2020-10-25",
+      "start_time": "2020-10-25T11:00:00Z",
+      "group": "Playoffs",
+      "number_of_games": 5,
+      "participants": [
+        { "winning": false, "name": "", "logo": "", "score": 0 },
+        { "winning": false, "name": "", "logo": "", "score": 0 }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
+    },
+    {
+      "slug": "2020-10-31-30b48b78-6930-4096-bff2-980d815f9bc5",
+      "start_time": "2020-10-31T11:00:00Z",
+      "group": "Playoffs",
+      "number_of_games": 5,
+      "participants": [
+        { "winning": false, "name": "", "logo": "", "score": 0 },
+        { "winning": false, "name": "", "logo": "", "score": 0 }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "NOT_STARTED"
     }
   ]
 }
