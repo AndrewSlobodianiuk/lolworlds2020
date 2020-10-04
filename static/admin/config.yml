@@ -17,6 +17,7 @@ collections:
             name: matches
             widget: list
             fields:
+              - { label: Slug, name: slug, widget: string }
               - { label: Start time, name: start_time, widget: string }
               - { label: Group, name: group, widget: string }
               - {
