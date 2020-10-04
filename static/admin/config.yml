@@ -9,15 +9,16 @@ collections:
   - label: "Sections"
     name: "sections"
     files:
-      - label: "Contacts"
-        name: "contacts"
-        file: "content/contacts.json"
+      - label: "Upcoming matches"
+        name: "upcoming_matches"
+        file: "content/upcoming_matches.json"
         fields:
-          - label: "Avatar"
-            name: "src"
-            widget: "image"
-          - { label: Full Name, name: full_name, widget: string }
-          - { label: Position, name: position, widget: string }
+          - { label: Start time, name: start_time, widget: string }
+          - {
+              label: Participant first,
+              name: participant_first,
+              widget: string,
+            }
           - { label: Tel, name: tel, widget: string }
           - { label: Second Tel, name: second_tel, widget: string }
           - { label: Email, name: email, widget: string }
