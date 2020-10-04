@@ -33,9 +33,24 @@ collections:
                 name: participants
                 widget: list
                 fields:
-                  - { label: Participant name, name: name, widget: string }
-                  - { label: Participant logo, name: logo, widget: string }
-                  - { label: Participant score, name: score, widget: string }
+                  - {
+                      label: Participant name,
+                      name: name,
+                      widget: string,
+                      required: false,
+                    }
+                  - {
+                      label: Participant logo,
+                      name: logo,
+                      widget: string,
+                      required: false,
+                    }
+                  - {
+                      label: Participant score,
+                      name: score,
+                      widget: string,
+                      required: false,
+                    }
                   - {
                       label: Participant winning,
                       name: winning,
