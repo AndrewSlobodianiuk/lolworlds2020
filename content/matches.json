@@ -1,3 +1,26 @@
 {
-  "matches": []
+  "matches": [
+    {
+      "gold": true,
+      "participants": [
+        {
+          "winning": true,
+          "name": "name",
+          "logo": "logo",
+          "score": "score"
+        }
+      ],
+      "vods": [
+        {
+          "link": "123"
+        }
+      ],
+      "start_time": "123123",
+      "slug": "slug",
+      "number_of_games": "1",
+      "status": "INPLAY",
+      "must_see": true,
+      "group": "A"
+    }
+  ]
 }
