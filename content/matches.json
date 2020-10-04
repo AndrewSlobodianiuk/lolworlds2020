@@ -918,6 +918,926 @@
       "gold": false,
       "vods": [],
       "status": "NOT_STARTED"
+    },
+    {
+      "slug": "fnatic-2020-10-04",
+      "start_time": "2020-10-04T13:07:14Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "FNC",
+          "logo": "https://cdn.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "gen-g-vs-team-solomid-2020-10-04",
+      "start_time": "2020-10-04T12:14:35Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "GEN",
+          "logo": "https://cdn.pandascore.co/images/team/image/2882/geng-hooir6i9.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "TSM",
+          "logo": "https://cdn.pandascore.co/images/team/image/387/team-solomid-bjjwknt9.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "jd-gaming-2020-10-04",
+      "start_time": "2020-10-04T11:22:58Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "JDG",
+          "logo": "https://cdn.pandascore.co/images/team/image/318/qg-reapers.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "rogue-vs-damwon-gaming-2020-10-04",
+      "start_time": "2020-10-04T10:24:12Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "RGE",
+          "logo": "https://cdn.pandascore.co/images/team/image/3983/Rogue__2018_European_Team_logo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "DWG",
+          "logo": "https://cdn.pandascore.co/images/team/image/1453/_.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "g2-esports-vs-suning-2020-10-04",
+      "start_time": "2020-10-04T09:13:02Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "G2",
+          "logo": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "SN",
+          "logo": "https://cdn.pandascore.co/images/team/image/652/_.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "machi-esports-2020-10-04",
+      "start_time": "2020-10-04T08:05:46Z",
+      "group": "Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "MCX",
+          "logo": "https://cdn.pandascore.co/images/team/image/416/220px_machi_e_sportslogo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "team-solomid-vs-fnatic-2020-10-03",
+      "start_time": "2020-10-03T13:07:18Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TSM",
+          "logo": "https://cdn.pandascore.co/images/team/image/387/team-solomid-bjjwknt9.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "FNC",
+          "logo": "https://cdn.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "gen-g-2020-10-03",
+      "start_time": "2020-10-03T11:54:32Z",
+      "group": "Group C",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "GEN",
+          "logo": "https://cdn.pandascore.co/images/team/image/2882/geng-hooir6i9.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "damwon-gaming-vs-jd-gaming-2020-10-04",
+      "start_time": "2020-10-03T11:03:06Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "DWG",
+          "logo": "https://cdn.pandascore.co/images/team/image/1453/_.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "JDG",
+          "logo": "https://cdn.pandascore.co/images/team/image/318/qg-reapers.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "rogue-2020-10-03",
+      "start_time": "2020-10-03T10:04:38Z",
+      "group": "Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "RGE",
+          "logo": "https://cdn.pandascore.co/images/team/image/3983/Rogue__2018_European_Team_logo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "drx-2020-10-03",
+      "start_time": "2020-10-03T09:05:20Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "DRX",
+          "logo": "https://cdn.pandascore.co/images/team/image/126370/220px_dr_xlogo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "flyquest-vs-top-esports-2020-10-03",
+      "start_time": "2020-10-03T08:08:54Z",
+      "group": "Group D",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "FLY",
+          "logo": "https://cdn.pandascore.co/images/team/image/311/flyquest-academy-gx8a0xfs.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TES",
+          "logo": "https://cdn.pandascore.co/images/team/image/126059/top-esports.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "unicorns-of-love-2020-09-30",
+      "start_time": "2020-09-30T08:56:49Z",
+      "group": "Play-in: Knockout Stage",
+      "number_of_games": 5,
+      "participants": [
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 3
+        },
+        {
+          "winning": false,
+          "name": "SUP",
+          "logo": "https://cdn.pandascore.co/images/team/image/202/220px_super_massivelogosquare.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "legacy-esports-2020-09-30",
+      "start_time": "2020-09-30T06:06:15Z",
+      "group": "Play-in: Knockout Stage",
+      "number_of_games": 5,
+      "participants": [
+        {
+          "winning": false,
+          "name": "LGC",
+          "logo": "https://cdn.pandascore.co/images/team/image/181/220px_legacy_esportslogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 3
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "2020-09-29-222e43a8-0943-4072-91bc-cf1b14d45b10",
+      "start_time": "2020-09-29T08:57:36Z",
+      "group": "Play-in: Knockout Stage",
+      "number_of_games": 5,
+      "participants": [
+        {
+          "winning": false,
+          "name": "SUP",
+          "logo": "https://cdn.pandascore.co/images/team/image/202/220px_super_massivelogosquare.png",
+          "score": 3
+        },
+        {
+          "winning": false,
+          "name": "MAD",
+          "logo": "https://cdn.pandascore.co/images/team/image/126536/220px_mad_lions_e.c.__lec_team_logo_profile.png",
+          "score": 2
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "rainbow7-vs-lgd-gaming-2020-09-29",
+      "start_time": "2020-09-29T06:05:31Z",
+      "group": "Play-in: Knockout Stage",
+      "number_of_games": 5,
+      "participants": [
+        {
+          "winning": false,
+          "name": "R7",
+          "logo": "https://cdn.pandascore.co/images/team/image/1635/220px_rainbow7logo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 3
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "legacy-esports-vs-team-liquid-2020-09-28",
+      "start_time": "2020-09-28T13:21:08Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "LGC",
+          "logo": "https://cdn.pandascore.co/images/team/image/181/220px_legacy_esportslogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "mad-lions-vs-intz-e-sports-2020-09-28",
+      "start_time": "2020-09-28T12:17:55Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "MAD",
+          "logo": "https://cdn.pandascore.co/images/team/image/126536/220px_mad_lions_e.c.__lec_team_logo_profile.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "ITZ",
+          "logo": "https://cdn.pandascore.co/images/team/image/158/intz-ijdoekud.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "legacy-esports-vs-papara-supermassive-2020-09-28",
+      "start_time": "2020-09-28T11:11:39Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "LGC",
+          "logo": "https://cdn.pandascore.co/images/team/image/181/220px_legacy_esportslogo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "SUP",
+          "logo": "https://cdn.pandascore.co/images/team/image/202/220px_super_massivelogosquare.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "intz-e-sports-vs-team-liquid-2020-09-28",
+      "start_time": "2020-09-28T10:07:55Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "ITZ",
+          "logo": "https://cdn.pandascore.co/images/team/image/158/intz-ijdoekud.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "mad-lions-vs-legacy-esports-2020-09-28",
+      "start_time": "2020-09-28T09:03:05Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "MAD",
+          "logo": "https://cdn.pandascore.co/images/team/image/126536/220px_mad_lions_e.c.__lec_team_logo_profile.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "LGC",
+          "logo": "https://cdn.pandascore.co/images/team/image/181/220px_legacy_esportslogo_square.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "papara-supermassive-vs-team-liquid-2020-09-28",
+      "start_time": "2020-09-28T08:05:40Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "SUP",
+          "logo": "https://cdn.pandascore.co/images/team/image/202/220px_super_massivelogosquare.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "lgd-gaming-vs-v3-esports-2020-09-27",
+      "start_time": "2020-09-27T13:21:31Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "V3",
+          "logo": "https://cdn.pandascore.co/images/team/image/1356/v3-esports-4j9hu4jm.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "psg-talon-vs-unicorns-of-love-2020-09-27",
+      "start_time": "2020-09-27T12:19:48Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "unicorns-of-love-vs-lgd-gaming-2020-09-27",
+      "start_time": "2020-09-27T11:17:52Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "psg-talon-vs-v3-esports-2020-09-27",
+      "start_time": "2020-09-27T10:20:54Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "V3",
+          "logo": "https://cdn.pandascore.co/images/team/image/1356/v3-esports-4j9hu4jm.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "rainbow7-vs-unicorns-of-love-2020-09-27",
+      "start_time": "2020-09-27T09:09:07Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "R7",
+          "logo": "https://cdn.pandascore.co/images/team/image/1635/220px_rainbow7logo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "v3-esports-vs-lgd-gaming-2020-09-27",
+      "start_time": "2020-09-27T08:05:53Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "V3",
+          "logo": "https://cdn.pandascore.co/images/team/image/1356/v3-esports-4j9hu4jm.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "team-liquid-vs-legacy-esports-2020-09-26",
+      "start_time": "2020-09-26T14:19:22Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "LGC",
+          "logo": "https://cdn.pandascore.co/images/team/image/181/220px_legacy_esportslogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "papara-supermassive-vs-mad-lions-2020-09-26",
+      "start_time": "2020-09-26T13:22:40Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "SUP",
+          "logo": "https://cdn.pandascore.co/images/team/image/202/220px_super_massivelogosquare.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "MAD",
+          "logo": "https://cdn.pandascore.co/images/team/image/126536/220px_mad_lions_e.c.__lec_team_logo_profile.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "unicorns-of-love-vs-psg-talon-2020-09-26",
+      "start_time": "2020-09-26T12:19:35Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "lgd-gaming-vs-rainbow7-2020-09-26",
+      "start_time": "2020-09-26T11:11:14Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "R7",
+          "logo": "https://cdn.pandascore.co/images/team/image/1635/220px_rainbow7logo_square.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "v3-esports-vs-unicorns-of-love-2020-09-26",
+      "start_time": "2020-09-26T10:10:21Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "V3",
+          "logo": "https://cdn.pandascore.co/images/team/image/1356/v3-esports-4j9hu4jm.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "UOL",
+          "logo": "https://cdn.pandascore.co/images/team/image/19/unicorns-of-love.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "intz-e-sports-vs-papara-supermassive-2020-09-26",
+      "start_time": "2020-09-26T09:12:15Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "ITZ",
+          "logo": "https://cdn.pandascore.co/images/team/image/158/intz-ijdoekud.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "SUP",
+          "logo": "https://cdn.pandascore.co/images/team/image/202/220px_super_massivelogosquare.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "rainbow7-vs-v3-esports-2020-09-26",
+      "start_time": "2020-09-26T08:05:33Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "R7",
+          "logo": "https://cdn.pandascore.co/images/team/image/1635/220px_rainbow7logo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "V3",
+          "logo": "https://cdn.pandascore.co/images/team/image/1356/v3-esports-4j9hu4jm.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "team-liquid-vs-mad-lions-2020-09-25",
+      "start_time": "2020-09-25T12:36:12Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "TL",
+          "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "MAD",
+          "logo": "https://cdn.pandascore.co/images/team/image/126536/220px_mad_lions_e.c.__lec_team_logo_profile.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "lgd-gaming-vs-psg-talon-2020-09-25",
+      "start_time": "2020-09-25T11:29:55Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "LGD",
+          "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 1
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "legacy-esports-vs-intz-e-sports-2020-09-25",
+      "start_time": "2020-09-25T10:17:19Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "LGC",
+          "logo": "https://cdn.pandascore.co/images/team/image/181/220px_legacy_esportslogo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "ITZ",
+          "logo": "https://cdn.pandascore.co/images/team/image/158/intz-ijdoekud.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "psg-talon-vs-rainbow7-2020-09-25",
+      "start_time": "2020-09-25T09:10:50Z",
+      "group": "Play-in: Group B",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "PSG",
+          "logo": "https://cdn.pandascore.co/images/team/image/126702/220px_psg_talonlogo_square.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "R7",
+          "logo": "https://cdn.pandascore.co/images/team/image/1635/220px_rainbow7logo_square.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
+    },
+    {
+      "slug": "mad-lions-vs-intz-e-sports-2020-09-25",
+      "start_time": "2020-09-25T08:06:22Z",
+      "group": "Play-in: Group A",
+      "number_of_games": 1,
+      "participants": [
+        {
+          "winning": false,
+          "name": "MAD",
+          "logo": "https://cdn.pandascore.co/images/team/image/126536/220px_mad_lions_e.c.__lec_team_logo_profile.png",
+          "score": 1
+        },
+        {
+          "winning": false,
+          "name": "ITZ",
+          "logo": "https://cdn.pandascore.co/images/team/image/158/intz-ijdoekud.png",
+          "score": 0
+        }
+      ],
+      "gold": false,
+      "vods": [],
+      "status": "FINISHED"
     }
   ]
 }
