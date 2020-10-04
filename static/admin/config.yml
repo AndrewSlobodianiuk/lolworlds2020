@@ -20,9 +20,8 @@ collections:
               - { label: Slug, name: slug, widget: string }
               - label: Number of games,
                 name: number_of_games,
-                widget: number,
+                widget: "number",
                 value_type: "int"
-
               - { label: Group, name: group, widget: string }
               - { label: Start time, name: start_time, widget: string }
               - label: "Match status"
