@@ -4,7 +4,7 @@
       "slug": "machi-esports-vs-g2-esports-2020-10-05",
       "start_time": "2020-10-05T08:00:00Z",
       "group": "Group A",
-      "number_of_games": 1,
+      "number_of_games": "2",
       "participants": [
         {
           "winning": false,
@@ -16,7 +16,7 @@
           "winning": false,
           "name": "G2",
           "logo": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
-          "score": 0
+          "score": "1"
         }
       ],
       "gold": false,
@@ -834,8 +834,18 @@
       "group": "Playoffs",
       "number_of_games": 5,
       "participants": [
-        { "winning": false, "name": "", "logo": "", "score": 0 },
-        { "winning": false, "name": "", "logo": "", "score": 0 }
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        }
       ],
       "gold": false,
       "vods": [],
@@ -847,8 +857,18 @@
       "group": "Playoffs",
       "number_of_games": 5,
       "participants": [
-        { "winning": false, "name": "", "logo": "", "score": 0 },
-        { "winning": false, "name": "", "logo": "", "score": 0 }
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        }
       ],
       "gold": false,
       "vods": [],
@@ -860,8 +880,18 @@
       "group": "Playoffs",
       "number_of_games": 5,
       "participants": [
-        { "winning": false, "name": "", "logo": "", "score": 0 },
-        { "winning": false, "name": "", "logo": "", "score": 0 }
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        }
       ],
       "gold": false,
       "vods": [],
@@ -873,8 +903,18 @@
       "group": "Playoffs",
       "number_of_games": 5,
       "participants": [
-        { "winning": false, "name": "", "logo": "", "score": 0 },
-        { "winning": false, "name": "", "logo": "", "score": 0 }
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        }
       ],
       "gold": false,
       "vods": [],
@@ -886,8 +926,18 @@
       "group": "Playoffs",
       "number_of_games": 5,
       "participants": [
-        { "winning": false, "name": "", "logo": "", "score": 0 },
-        { "winning": false, "name": "", "logo": "", "score": 0 }
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        }
       ],
       "gold": false,
       "vods": [],
@@ -899,8 +949,18 @@
       "group": "Playoffs",
       "number_of_games": 5,
       "participants": [
-        { "winning": false, "name": "", "logo": "", "score": 0 },
-        { "winning": false, "name": "", "logo": "", "score": 0 }
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        }
       ],
       "gold": false,
       "vods": [],
@@ -912,8 +972,18 @@
       "group": "Playoffs",
       "number_of_games": 5,
       "participants": [
-        { "winning": false, "name": "", "logo": "", "score": 0 },
-        { "winning": false, "name": "", "logo": "", "score": 0 }
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        },
+        {
+          "winning": false,
+          "name": "",
+          "logo": "",
+          "score": 0
+        }
       ],
       "gold": false,
       "vods": [],
