@@ -18,15 +18,13 @@ collections:
             widget: list
             fields:
               - { label: Slug, name: slug, widget: string }
+              - {
+                  label: Number of games,
+                  name: number_of_games,
+                  widget: string,
+                }
+              - { label: Group, name: group, widget: string }
               - { label: Start time, name: start_time, widget: string }
-              - label: "Group"
-                name: "group"
-                widget: "select"
-                options: ["A", "B", "C", "D"]
-              - label: "Number of games"
-                name: "number_of_games"
-                widget: "select"
-                options: ["1", "5"]
               - label: "Match status"
                 name: "status"
                 widget: "select"
