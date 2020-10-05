@@ -1,5 +1,5 @@
-@import './normalize.css';
-@import './vars.css';
+@import "./normalize.css";
+@import "./vars.css";
 
 * {
   box-sizing: border-box;
@@ -7,6 +7,8 @@
 
 html {
   font-family: var(--main-font);
+  background-color: var(--main-bg-color);
+  color: #9f9f9f;
 }
 
 h1,
