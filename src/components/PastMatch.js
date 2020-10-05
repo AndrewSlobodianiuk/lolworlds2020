@@ -73,6 +73,8 @@ const Past = ({ match }) => {
         >
           {participantSecond.score}
         </span>
+        {match.must_see && <div className={s.gameStatus}>Must see</div>}
+        {match.gold && <div className={s.gameStatus}>Gold</div>}
       </span>
 
       {participantSecondExist ? (
