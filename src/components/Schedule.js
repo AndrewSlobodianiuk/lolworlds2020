@@ -9,7 +9,10 @@ import MatchItem from "./MatchItem"
 
 const Schedule = () => {
   const upcomingMatches =
-    data.matches && data.matches.filter(match => match.status === "NOT_STARTED")
+    data.matches &&
+    data.matches.filter(
+      match => match.status === "NOT_STARTED" || match.status === "INPLAY"
+    )
 
   const groupedMatches = Object.values(groupBy(upcomingMatches, "start_time"))
 
