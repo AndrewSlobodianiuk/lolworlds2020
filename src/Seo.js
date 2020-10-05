@@ -8,8 +8,6 @@ const Seo = () => {
       <title>LOL Worlds 2020</title>
       <meta name="description" content="LOL Worlds 2020" />
       <meta property="og:title" content="LOL Worlds 2020" />
-      <meta property="og:url" content="https://vinstreet.com.ua/" />
-      <meta property="og:image" content="LOL Worlds 2020" />
       <meta property="og:description" content="LOL Worlds 2020" />
     </Helmet>
   )
