@@ -1132,10 +1132,7 @@
       "status": "FINISHED"
     },
     {
-      "slug": "team-solomid-vs-fnatic-2020-10-03",
-      "start_time": "2020-10-03T13:07:18Z",
-      "group": "Group C",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1150,15 +1147,16 @@
           "score": 1
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-10-03T13:07:18Z",
+      "slug": "team-solomid-vs-fnatic-2020-10-03",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Group C"
     },
     {
-      "slug": "gen-g-2020-10-03",
-      "start_time": "2020-10-03T11:54:32Z",
-      "group": "Group C",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1173,9 +1171,13 @@
           "score": 0
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-10-03T11:54:32Z",
+      "slug": "gen-g-2020-10-03",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Group C"
     },
     {
       "slug": "damwon-gaming-vs-jd-gaming-2020-10-04",
@@ -1316,10 +1318,7 @@
       "status": "FINISHED"
     },
     {
-      "slug": "2020-09-29-222e43a8-0943-4072-91bc-cf1b14d45b10",
-      "start_time": "2020-09-29T08:57:36Z",
-      "group": "Play-in: Knockout Stage",
-      "number_of_games": 5,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1334,9 +1333,13 @@
           "score": 2
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-09-29T08:57:36Z",
+      "slug": "2020-09-29-222e43a8-0943-4072-91bc-cf1b14d45b10",
+      "number_of_games": 5,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Play-in: Knockout Stage"
     },
     {
       "slug": "rainbow7-vs-lgd-gaming-2020-09-29",
@@ -1385,10 +1388,7 @@
       "status": "FINISHED"
     },
     {
-      "slug": "mad-lions-vs-intz-e-sports-2020-09-28",
-      "start_time": "2020-09-28T12:17:55Z",
-      "group": "Play-in: Group A",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1403,9 +1403,13 @@
           "score": 0
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-09-28T12:17:55Z",
+      "slug": "mad-lions-vs-intz-e-sports-2020-09-28",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Play-in: Group A"
     },
     {
       "slug": "legacy-esports-vs-papara-supermassive-2020-09-28",
@@ -1426,15 +1430,12 @@
           "score": 0
         }
       ],
-      "gold": false,
+      "gold": true,
       "vods": [],
       "status": "FINISHED"
     },
     {
-      "slug": "intz-e-sports-vs-team-liquid-2020-09-28",
-      "start_time": "2020-09-28T10:07:55Z",
-      "group": "Play-in: Group A",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1449,15 +1450,16 @@
           "score": 0
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-09-28T10:07:55Z",
+      "slug": "intz-e-sports-vs-team-liquid-2020-09-28",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Play-in: Group A"
     },
     {
-      "slug": "mad-lions-vs-legacy-esports-2020-09-28",
-      "start_time": "2020-09-28T09:03:05Z",
-      "group": "Play-in: Group A",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1472,9 +1474,13 @@
           "score": 1
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-09-28T09:03:05Z",
+      "slug": "mad-lions-vs-legacy-esports-2020-09-28",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Play-in: Group A"
     },
     {
       "slug": "papara-supermassive-vs-team-liquid-2020-09-28",
@@ -1523,10 +1529,7 @@
       "status": "FINISHED"
     },
     {
-      "slug": "psg-talon-vs-unicorns-of-love-2020-09-27",
-      "start_time": "2020-09-27T12:19:48Z",
-      "group": "Play-in: Group B",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1541,15 +1544,16 @@
           "score": 0
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-09-27T12:19:48Z",
+      "slug": "psg-talon-vs-unicorns-of-love-2020-09-27",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Play-in: Group B"
     },
     {
-      "slug": "unicorns-of-love-vs-lgd-gaming-2020-09-27",
-      "start_time": "2020-09-27T11:17:52Z",
-      "group": "Play-in: Group B",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1564,9 +1568,13 @@
           "score": 0
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-09-27T11:17:52Z",
+      "slug": "unicorns-of-love-vs-lgd-gaming-2020-09-27",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Play-in: Group B"
     },
     {
       "slug": "psg-talon-vs-v3-esports-2020-09-27",
@@ -1684,10 +1692,7 @@
       "status": "FINISHED"
     },
     {
-      "slug": "unicorns-of-love-vs-psg-talon-2020-09-26",
-      "start_time": "2020-09-26T12:19:35Z",
-      "group": "Play-in: Group B",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1702,15 +1707,16 @@
           "score": 0
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-09-26T12:19:35Z",
+      "slug": "unicorns-of-love-vs-psg-talon-2020-09-26",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Play-in: Group B"
     },
     {
-      "slug": "lgd-gaming-vs-rainbow7-2020-09-26",
-      "start_time": "2020-09-26T11:11:14Z",
-      "group": "Play-in: Group B",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -1725,9 +1731,13 @@
           "score": 1
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-09-26T11:11:14Z",
+      "slug": "lgd-gaming-vs-rainbow7-2020-09-26",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Play-in: Group B"
     },
     {
       "slug": "v3-esports-vs-unicorns-of-love-2020-09-26",
