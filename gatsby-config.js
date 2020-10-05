@@ -1,5 +1,12 @@
 module.exports = {
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-43453423-3",
+        head: true,
+      },
+    },
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-react-helmet`,
     {
