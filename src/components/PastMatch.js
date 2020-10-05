@@ -3,6 +3,8 @@ import React from "react"
 import s from "./pastMatches.module.css"
 
 const Past = ({ match }) => {
+  console.log(match)
+
   const participantEntityFirst =
     (match && match.participants && match.participants[0]) || {}
 
@@ -25,6 +27,10 @@ const Past = ({ match }) => {
   const participantSecondExist = !!participantEntitySecond.name
 
   const gamesTotal = match.number_of_games || 0
+
+  const firstParticipantWin = +participantFirst.score > +participantSecond.score
+  const secondParticipantWin =
+    +participantFirst.score < +participantSecond.score
 
   return (
     <div className={s.matchItem}>
@@ -50,9 +56,25 @@ const Past = ({ match }) => {
       )}
 
       <span className={s.scores}>
-        <span>{participantFirst.score}</span>
+        <span
+          className={
+            !!participantFirst.score && firstParticipantWin
+              ? s.winScore
+              : s.loseScore
+          }
+        >
+          {participantFirst.score}
+        </span>
         <span className={s.participantScoreSeparator}>:</span>
-        <span>{participantSecond.score}</span>
+        <span
+          className={
+            !!participantSecond.score && secondParticipantWin
+              ? s.winScore
+              : s.loseScore
+          }
+        >
+          {participantSecond.score}
+        </span>
       </span>
 
       {participantSecondExist ? (

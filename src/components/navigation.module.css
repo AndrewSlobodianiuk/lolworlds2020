@@ -1,0 +1,62 @@
+.header {
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.nav {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+
+.scheduleLink {
+  width: 45%;
+  height: 50px;
+  border-radius: 5px;
+  background-color: lightblue;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.resultLink {
+  width: 45%;
+  height: 50px;
+  border-radius: 5px;
+  background-color: lightblue;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.scheduleLinkActive {
+  width: 45%;
+  height: 50px;
+  border-radius: 5px;
+  background-color: yellow;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.resultLinkActive {
+  width: 45%;
+  height: 50px;
+  border-radius: 5px;
+  background-color: yellow;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}

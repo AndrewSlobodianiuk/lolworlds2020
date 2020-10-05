@@ -38,3 +38,11 @@
 .participantScoreSeparator {
   margin: 0 5px;
 }
+
+.winScore {
+  color: green;
+}
+
+.loseScore {
+  color: red;
+}

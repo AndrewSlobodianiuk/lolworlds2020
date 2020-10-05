@@ -1,0 +1,15 @@
+:root {
+  --main-font: Montserrat, sans-serif;
+
+  --main-font-color: #2d2d2d;
+  --semi-main-font-color: #7d7d7d;
+  --light-font-color: #ffffff;
+
+  --main-color: #4f3b34;
+  --secondary-color: #8f7749;
+
+  --main-bg-color: #f8f8f8;
+
+  --container-max-width: 1200px;
+  --container-min-width: 320px;
+}

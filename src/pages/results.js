@@ -1,14 +1,17 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Seo from "../Seo"
 import Results from "../components/Results"
+import Layout from "../components/Layout"
+import Navigation from "../components/Navigation"
 
 const SecondPage = () => (
   <>
     <Seo />
-    <Link to="/">Go back to the homepage</Link>
-    <Results />
+    <Layout>
+      <Navigation results />
+      <Results />
+    </Layout>
   </>
 )
 

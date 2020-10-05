@@ -14,7 +14,7 @@ const Schedule = () => {
   const groupedMatches = Object.values(groupBy(upcomingMatches, "start_time"))
 
   return (
-    <div>
+    <div className={s.scheduleWrapper}>
       {groupedMatches &&
         !!groupedMatches.length &&
         groupedMatches.map(matches => {
@@ -23,7 +23,7 @@ const Schedule = () => {
 
           return (
             <div className={s.dayWrapper}>
-              <span>{date}</span>
+              <p className={s.date}>{date}</p>
               {matches && matches.map(match => <MatchItem match={match} />)}
             </div>
           )

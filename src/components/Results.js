@@ -4,7 +4,7 @@ import data from "../../content/matches.json"
 import { getDayMonthDate } from "../utils/DateTimeHelpers"
 import { groupBy } from "../utils/helpers"
 
-import s from "./schedule.module.css"
+import s from "./results.module.css"
 import MatchItem from "./MatchItem"
 
 const Results = () => {
@@ -14,7 +14,7 @@ const Results = () => {
   const groupedMatches = Object.values(groupBy(finishedMatches, "start_time"))
 
   return (
-    <div>
+    <div className={s.scheduleWrapper}>
       {groupedMatches &&
         !!groupedMatches.length &&
         groupedMatches.map(matches => {
@@ -23,7 +23,7 @@ const Results = () => {
 
           return (
             <div className={s.dayWrapper}>
-              <span>{date}</span>
+              <p className={s.date}>{date}</p>
               {matches && matches.map(match => <MatchItem match={match} />)}
             </div>
           )

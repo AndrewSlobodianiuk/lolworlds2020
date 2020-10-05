@@ -7,7 +7,6 @@ import PastMatch from "./PastMatch"
 const MatchItem = ({ match }) => {
   const matchType = match.status
 
-  //   console.log(matchType)
   switch (matchType) {
     case "INPLAY":
       return <RunningMatch match={match} />
