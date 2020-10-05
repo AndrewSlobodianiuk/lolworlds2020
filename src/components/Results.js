@@ -21,10 +21,18 @@ const Results = () => {
           const firstMatch = matches && matches[0]
           const date = getDayMonthDate(firstMatch.start_time)
 
+          const sortedMatches = matches.sort((a, b) => {
+            return (
+              new Date(b.start_time).getHours() -
+              new Date(a.start_time).getHours()
+            )
+          })
+
           return (
             <div className={s.dayWrapper}>
               <p className={s.date}>{date}</p>
-              {matches && matches.map(match => <MatchItem match={match} />)}
+              {sortedMatches &&
+                sortedMatches.map(match => <MatchItem match={match} />)}
             </div>
           )
         })}

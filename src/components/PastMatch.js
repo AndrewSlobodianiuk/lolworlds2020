@@ -3,8 +3,6 @@ import React from "react"
 import s from "./pastMatches.module.css"
 
 const Past = ({ match }) => {
-  console.log(match)
-
   const participantEntityFirst =
     (match && match.participants && match.participants[0]) || {}
 
