@@ -40,9 +40,11 @@
 }
 
 .winScore {
-  color: green;
+  color: rgb(20, 109, 20);
+  font-weight: 500;
 }
 
 .loseScore {
-  color: red;
+  color: rgb(150, 10, 10);
+  font-weight: 500;
 }
