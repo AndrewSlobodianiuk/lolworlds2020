@@ -17,8 +17,8 @@ module.exports = {
         name: `LOL Worlds 2020`,
         short_name: `LOL Worlds 2020`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#6f5913`,
+        theme_color: `#6f5913`,
         display: `minimal-ui`,
         icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
