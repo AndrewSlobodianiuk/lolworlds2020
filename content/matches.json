@@ -118,16 +118,13 @@
       "status": "FINISHED"
     },
     {
-      "slug": "top-esports-vs-drx-2020-10-05",
-      "start_time": "2020-10-05T13:00:00Z",
-      "group": "Group D",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
-          "winning": false,
+          "winning": true,
           "name": "TES",
           "logo": "https://cdn.pandascore.co/images/team/image/126059/top-esports.png",
-          "score": 0
+          "score": "1"
         },
         {
           "winning": false,
@@ -136,9 +133,13 @@
           "score": 0
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "NOT_STARTED"
+      "start_time": "2020-10-05T13:00:00Z",
+      "slug": "top-esports-vs-drx-2020-10-05",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Group D"
     },
     {
       "slug": "g2-esports-2020-10-06",
