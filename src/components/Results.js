@@ -7,11 +7,11 @@ import { groupBy } from "../utils/helpers"
 import s from "./schedule.module.css"
 import MatchItem from "./MatchItem"
 
-const Schedule = () => {
-  const upcomingMatches =
-    data.matches && data.matches.filter(match => match.status === "NOT_STARTED")
+const Results = () => {
+  const finishedMatches =
+    data.matches && data.matches.filter(match => match.status === "FINISHED")
 
-  const groupedMatches = Object.values(groupBy(upcomingMatches, "start_time"))
+  const groupedMatches = Object.values(groupBy(finishedMatches, "start_time"))
 
   return (
     <div>
@@ -32,4 +32,4 @@ const Schedule = () => {
   )
 }
 
-export default Schedule
+export default Results

@@ -1,0 +1,32 @@
+.matchItem {
+  display: grid;
+  grid-template-columns: 60px minmax(47px, 1fr) 55px 30px 55px minmax(67px, 1fr) 40px;
+  align-items: center;
+  justify-items: center;
+  margin-bottom: 10px;
+
+  height: 60px;
+  background-color: lightblue;
+  padding: 0 10px;
+  border-radius: 3px;
+}
+
+.matchItem:last-child {
+  margin-bottom: 0px;
+}
+
+.startTime {
+  font-size: 14px;
+}
+
+.participantLogoHolderFirst {
+  justify-self: end;
+}
+
+.participantLogoHolderSecond {
+  justify-self: start;
+}
+
+.participant {
+  font-size: 14px;
+}
