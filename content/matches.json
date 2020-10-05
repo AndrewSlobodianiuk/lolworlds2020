@@ -55,10 +55,10 @@
       "number_of_games": 1,
       "participants": [
         {
-          "winning": false,
+          "winning": true,
           "name": "DWG",
           "logo": "https://am-a.akamaihd.net/image/?resize=70:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1592589259480_DamwonGamingDWG-01-FullonDark.png",
-          "score": 0
+          "score": "1"
         },
         {
           "winning": false,
@@ -69,7 +69,7 @@
       ],
       "gold": false,
       "vods": [],
-      "status": "INPLAY"
+      "status": "FINISHED"
     },
     {
       "slug": "jd-gaming-vs-rogue-2020-10-05",
