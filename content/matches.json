@@ -31,10 +31,10 @@
       "number_of_games": 1,
       "participants": [
         {
-          "winning": false,
+          "winning": true,
           "name": "SN",
           "logo": "https://cdn.pandascore.co/images/team/image/652/_.png",
-          "score": 0
+          "score": "1"
         },
         {
           "winning": false,
@@ -45,7 +45,7 @@
       ],
       "gold": false,
       "vods": [],
-      "status": "INPLAY"
+      "status": "FINISHED"
     },
     {
       "slug": "damwon-gaming-2020-10-05",
