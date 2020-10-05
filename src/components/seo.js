@@ -1,7 +1,7 @@
 import React from "react"
 import { Helmet } from "react-helmet"
 
-const SEO = () => {
+const Seo = () => {
   return (
     <Helmet>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -15,4 +15,4 @@ const SEO = () => {
   )
 }
 
-export default SEO
+export default Seo
