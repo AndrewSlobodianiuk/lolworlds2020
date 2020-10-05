@@ -78,10 +78,10 @@
       "number_of_games": 1,
       "participants": [
         {
-          "winning": false,
+          "winning": true,
           "name": "JDG",
           "logo": "https://cdn.pandascore.co/images/team/image/318/qg-reapers.png",
-          "score": 0
+          "score": "1"
         },
         {
           "winning": false,
@@ -92,7 +92,7 @@
       ],
       "gold": false,
       "vods": [],
-      "status": "INPLAY"
+      "status": "FINISHED"
     },
     {
       "slug": "flyquest-2020-10-05",
@@ -115,7 +115,7 @@
       ],
       "gold": false,
       "vods": [],
-      "status": "NOT_STARTED"
+      "status": "INPLAY"
     },
     {
       "slug": "top-esports-vs-drx-2020-10-05",
