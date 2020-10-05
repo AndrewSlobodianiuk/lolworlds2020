@@ -25,10 +25,7 @@
       "group": "Group A"
     },
     {
-      "slug": "suning-2020-10-05",
-      "start_time": "2020-10-05T09:00:00Z",
-      "group": "Group A",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": true,
@@ -43,9 +40,13 @@
           "score": 0
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-10-05T09:00:00Z",
+      "slug": "suning-2020-10-05",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Group A"
     },
     {
       "slug": "damwon-gaming-2020-10-05",
