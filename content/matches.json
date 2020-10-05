@@ -1,10 +1,7 @@
 {
   "matches": [
     {
-      "slug": "machi-esports-vs-g2-esports-2020-10-05",
-      "start_time": "2020-10-05T08:00:00Z",
-      "group": "Group A",
-      "number_of_games": "1",
+      "gold": true,
       "participants": [
         {
           "winning": false,
@@ -13,15 +10,19 @@
           "score": 0
         },
         {
-          "winning": false,
+          "winning": true,
           "name": "G2",
           "logo": "https://cdn.pandascore.co/images/team/image/88/g2-esports.png",
-          "score": ""
+          "score": "1"
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "NOT_STARTED"
+      "start_time": "2020-10-05T08:00:00Z",
+      "slug": "machi-esports-vs-g2-esports-2020-10-05",
+      "number_of_games": "1",
+      "status": "FINISHED",
+      "must_see": false,
+      "group": "Group A"
     },
     {
       "slug": "suning-2020-10-05",
