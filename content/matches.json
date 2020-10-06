@@ -253,7 +253,7 @@
           "score": 0
         }
       ],
-      "gold": false,
+      "gold": true,
       "vods": [],
       "status": "FINISHED"
     },
