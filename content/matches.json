@@ -142,10 +142,7 @@
       "group": "Group D"
     },
     {
-      "slug": "g2-esports-2020-10-06",
-      "start_time": "2020-10-06T08:00:00Z",
-      "group": "Group A",
-      "number_of_games": 1,
+      "gold": false,
       "participants": [
         {
           "winning": false,
@@ -160,9 +157,13 @@
           "score": "1"
         }
       ],
-      "gold": false,
       "vods": [],
-      "status": "FINISHED"
+      "start_time": "2020-10-06T08:00:00Z",
+      "slug": "g2-esports-2020-10-06",
+      "number_of_games": 1,
+      "status": "FINISHED",
+      "must_see": true,
+      "group": "Group A"
     },
     {
       "slug": "suning-vs-machi-esports-2020-10-06",
