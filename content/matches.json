@@ -172,10 +172,10 @@
       "number_of_games": 1,
       "participants": [
         {
-          "winning": false,
+          "winning": true,
           "name": "SN",
           "logo": "https://cdn.pandascore.co/images/team/image/652/_.png",
-          "score": 0
+          "score": "1"
         },
         {
           "winning": false,
