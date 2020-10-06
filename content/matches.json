@@ -241,10 +241,10 @@
       "number_of_games": 1,
       "participants": [
         {
-          "winning": false,
+          "winning": true,
           "name": "FNC",
           "logo": "https://cdn.pandascore.co/images/team/image/394/220px_fnaticlogo_square.png",
-          "score": 0
+          "score": "1"
         },
         {
           "winning": false,
@@ -255,7 +255,7 @@
       ],
       "gold": false,
       "vods": [],
-      "status": "INPLAY"
+      "status": "FINISHED"
     },
     {
       "slug": "team-solomid-2020-10-06",
