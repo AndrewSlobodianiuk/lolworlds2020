@@ -270,10 +270,10 @@
           "score": 0
         },
         {
-          "winning": false,
+          "winning": true,
           "name": "LGD",
           "logo": "https://cdn.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
-          "score": 0
+          "score": "1"
         }
       ],
       "gold": false,
