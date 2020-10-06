@@ -13,11 +13,18 @@ const Results = () => {
 
   const groupedMatches = Object.values(groupBy(finishedMatches, "start_time"))
 
+  const sortedMatchesByDay = groupedMatches.sort((a, b) => {
+    return (
+      new Date(b[0] && b[0].start_time).getTime() -
+      new Date(a[0] && a[0].start_time).getTime()
+    )
+  })
+
   return (
     <div className={s.scheduleWrapper}>
-      {groupedMatches &&
-        !!groupedMatches.length &&
-        groupedMatches.map(matches => {
+      {sortedMatchesByDay &&
+        !!sortedMatchesByDay.length &&
+        sortedMatchesByDay.map(matches => {
           const firstMatch = matches && matches[0]
           const date = getDayMonthDate(firstMatch.start_time)
 
