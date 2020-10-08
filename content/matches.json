@@ -362,15 +362,15 @@
           "score": 0
         },
         {
-          "winning": false,
+          "winning": true,
           "name": "TL",
           "logo": "https://cdn.pandascore.co/images/team/image/390/liquid.png",
-          "score": 0
+          "score": "1"
         }
       ],
       "gold": false,
       "vods": [],
-      "status": "INPLAY"
+      "status": "FINISHED"
     },
     {
       "slug": "machi-esports-2020-10-08",
