@@ -316,15 +316,15 @@
           "score": 0
         },
         {
-          "winning": false,
+          "winning": true,
           "name": "SN",
           "logo": "https://cdn.pandascore.co/images/team/image/652/_.png",
-          "score": 0
+          "score": "1"
         }
       ],
       "gold": false,
       "vods": [],
-      "status": "INPLAY"
+      "status": "FINISHED"
     },
     {
       "slug": "g2-esports-vs-machi-esports-2020-10-08",
