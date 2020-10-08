@@ -333,10 +333,10 @@
       "number_of_games": 1,
       "participants": [
         {
-          "winning": false,
+          "winning": true,
           "name": "G2",
           "logo": "https://g2esports.com/wp-content/uploads/G2-Esports-2020-Logo-1-1.png",
-          "score": 0
+          "score": "1"
         },
         {
           "winning": false,
@@ -347,7 +347,7 @@
       ],
       "gold": false,
       "vods": [],
-      "status": "INPLAY"
+      "status": "FINISHED"
     },
     {
       "slug": "suning-2020-10-08",
